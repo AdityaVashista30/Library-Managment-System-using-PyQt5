@@ -1,5 +1,7 @@
 # Library-Managment-System-using-PyQt5
 
+It is an interactive library management system using PyQt5 GUI and SQL lite database to store and retrieve data. The application is supported with login system.
+
 Functionalities and Content of each table (as stored in SQL DB DATABASE).
 
 library system : 
